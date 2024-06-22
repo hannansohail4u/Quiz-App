@@ -1,0 +1,40 @@
+.hide {
+    visibility: hidden;
+}
+
+.show {
+    visibility: visible;
+}
+
+.heading{
+    width: 40%;
+    margin: 0 auto;
+}
+
+#quizcontainer {
+    border: 1px solid red;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 10px;
+
+}
+
+.header{
+    border: 1px solid rgb(0, 255, 64);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer{
+    display: flex;   
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid purple;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.body{
+    border: 1px solid yellow;
+}
